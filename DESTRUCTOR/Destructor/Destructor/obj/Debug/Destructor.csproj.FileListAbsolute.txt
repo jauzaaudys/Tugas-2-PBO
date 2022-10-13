@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\bin\Debug\Destructor.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\bin\Debug\Destructor.pdb
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\obj\Debug\Destructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\obj\Debug\Destructor.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\obj\Debug\Destructor.pdb
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Destructor\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
