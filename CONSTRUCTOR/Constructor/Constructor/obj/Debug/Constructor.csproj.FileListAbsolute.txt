@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 3\PBO\coding\Constructor\Constructor\obj\Debug\Constructor.pdb
