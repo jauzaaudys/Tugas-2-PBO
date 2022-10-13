@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
