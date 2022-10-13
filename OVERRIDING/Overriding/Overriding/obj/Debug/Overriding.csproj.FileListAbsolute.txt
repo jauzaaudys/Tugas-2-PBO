@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\bin\Debug\Overriding.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\bin\Debug\Overriding.pdb
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\obj\Debug\Overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\obj\Debug\Overriding.exe
+C:\Users\Acer\Documents\kuliah\SEMESTER 2\STRUKTUR DATA\Overriding\Overriding\obj\Debug\Overriding.pdb
